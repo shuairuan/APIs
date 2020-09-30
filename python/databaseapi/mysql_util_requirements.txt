@@ -1,0 +1,9 @@
+mysql_util API need PyMySQL
+
+You can install with
+
+pip install pymysql
+
+or
+
+pip3 install pymysql
